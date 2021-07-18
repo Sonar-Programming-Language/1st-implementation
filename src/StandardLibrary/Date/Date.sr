@@ -1,0 +1,8 @@
+def FormatTimestamp@timestamp, format@ => {
+    # Available format identifiers:
+    # HH, hh, mm, MM, ss, a, MMM, MMMM, yyyy, dddd, ddd, dd
+
+    
+};
+
+FormatTimestamp@Timestamp, ''@;
